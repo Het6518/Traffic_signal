@@ -1,0 +1,51 @@
+#red{
+  background-color:rgb(255, 255, 255);
+  width:100px;
+  height:100px;
+  margin: 5px;
+  
+  border-radius: 50%;}
+
+#yellow{
+  background-color:rgb(255, 255, 255);
+  width:100px;
+  height:100px;
+  margin: 5px;
+  
+  border-radius: 50%;
+
+
+}
+
+#green{
+  background-color:rgb(255, 255, 255);
+  width:100px;
+  height:100px;
+  margin: 5px;
+  
+  border-radius: 50%;
+
+
+}
+#p{
+  background-color:black;
+  width:100px;
+  height:320px;
+  padding:20px;
+  display:inline-block;
+  border-radius: 25px;
+}
+body{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+#red:hover{ background-color:red;
+
+}
+#yellow:hover{
+  background-color: yellow;
+}
+#green:hover{
+  background-color: green;
+}
