@@ -1,0 +1,1 @@
+the file has a traffic signal in which we have got 3 white circles in the middle using border radius property on hovering on the circle the respective colors are reflected on the circle this is done with the help of css
